@@ -1,0 +1,13 @@
+button:focus {
+    outline: none !important;
+    outline: none !important;
+}
+
+.MuiTypography-body2 {
+    margin-right: 47px;
+    margin-left: 47px;
+}
+
+.MuiTypography-displayBlock {
+    margin-left: 0 !important;
+}
